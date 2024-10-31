@@ -1,0 +1,21 @@
+/* for tr elements */
+.tnado_mytasks_overdue {
+    background-color: pink;
+}
+
+.tnado_mytasks_completed {
+    background-color: #90ee908c;
+}
+
+/* for action buttons in the table */
+.tnado_mytasks_button {
+    background: darkgreen;
+    border-radius: 9px;
+    font-size: 12px;
+    color: white;
+    font-weight: bold;
+}
+
+.tnado_mytasks_reopen {
+    background: darkred;
+}
